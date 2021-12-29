@@ -32,6 +32,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define TAPPING_FORCE_HOLD
 #define TAPPING_TERM 100
+#define OLED_TIMEOUT 120000
 
 #ifdef RGBLIGHT_ENABLE
     #undef RGBLED_NUM
