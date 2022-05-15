@@ -1,7 +1,5 @@
-OLED_ENABLE = yes
-BOOTLOADER = atmel-dfu
-OLED_DRIVER = SSD1306
-MOUSEKEY_ENABLE = no
-MUSIC_ENABLE = no
-LTO_ENABLE = yes
-WPM_ENABLE = yes
+MOUSEKEY_ENABLE = yes    # Mouse keys
+OLED_ENABLE     = yes
+OLED_DRIVER     = SSD1306
+LTO_ENABLE      = yes
+BOOTLOADER      = atmel-dfu
